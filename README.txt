@@ -1,9 +1,4 @@
 Project 3: Neural Network
-Group 2
-Jaden Hyatt - Completed DigitNetworkAccuracy.java 
-Kayla Cooper - Completed the predict() method in SimpleNeuralNetwork.java
-Ria Mathew - Completed the wireNetwork() method in SimpleNeuralNetwork.java
-
 ------------------------------------------------------------------------------------------------------------------
 Code Discussion:
 Step 3: Initialize input neurons.
@@ -51,6 +46,7 @@ input: 2 -> 1st Hidden: 0, 1st Hidden: 1, 1st Hidden: 2, 1st Hidden: 3
 2nd Hidden: 3 -> Output: 0, Output: 1
 Output: 0 ->
 Output: 1 ->
+
 
 
 
